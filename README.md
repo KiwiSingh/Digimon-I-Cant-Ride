@@ -1,5 +1,5 @@
 # Digimon I Can't Ride
-A list of all non-ridable Digimon in *Digimon Story Time Stranger*. Compiled from Game8's [List of All Digimon](https://game8.co/games/Digimon-Story-Time-Stranger/archives/552892) and [List of Mounts and Ridable Digimon](https://game8.co/games/Digimon-Story-Time-Stranger/archives/556611)
+A list of all non-ridable Digimon in *Digimon Story Time Stranger*. Compiled from Game8's [List of All Digimon](https://game8.co/games/Digimon-Story-Time-Stranger/archives/552892) and [List of Mounts and Ridable Digimon](https://game8.co/games/Digimon-Story-Time-Stranger/archives/556611).
 
 # The List
 
@@ -310,3 +310,6 @@ Please note that this list is subject to change if/when Bandai Namco adds more r
 
 ## Legal disclaimer
 This is only meant to be a guide to prospective or current players of the game *Digimon Story Time Stranger*. This list isn't intended to be used to facilitate datamining, or otherwise infringe on the intellectual properties of Akiyoshi Hongo, Bandai Namco, and/or Toei Animation. To this effect, no art assets have been used from the game and anime, and no rights or lack thereof can be derived from this list.
+
+## Acknowledgement
+I would like to thank Discord user Aratparaka from the [With the Will](https://withthewill.net) Digimon Chat Discord server for the original idea for this list. Also huge props to MarcFBR, Vande, and other admins and mods in the server (and on the forums) for the thankless work they put in on a daily basis. Y'all are amazing and I appreciate the heck outta you! The DigiDudes will DigiRule, with DigiAbility, a DigiTude! 💖
